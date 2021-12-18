@@ -9,10 +9,13 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser. A screenshot of the app interacting with a django backend is shown below
+![image](https://user-images.githubusercontent.com/70643844/146636693-9ea82111-fd8f-4bc5-b532-81b470d87eff.png)
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
 
 ### `npm test`
 
